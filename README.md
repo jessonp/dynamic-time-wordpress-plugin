@@ -1,4 +1,5 @@
 # Dynamic Timeline Plugin
+![image](https://github.com/user-attachments/assets/407394e5-431d-4cfd-8535-46ce9da4007f)
 
 A WordPress plugin to create and display dynamic timelines using a shortcode.
 
@@ -33,5 +34,4 @@ A WordPress plugin to create and display dynamic timelines using a shortcode.
 
 For any issues or feature requests, feel free to contact us at [me@jessonpaloma.com].
 
-![image](https://github.com/user-attachments/assets/9e169d6e-45fa-46cd-b4a3-2d75381ae0da)
 
